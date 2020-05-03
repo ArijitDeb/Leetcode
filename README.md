@@ -11,6 +11,7 @@ This is a repository for [Leetcode](https://leetcode.com/) problem solutions.
 5. [Lowest Common Ancestor of Binary Tree](src/main/java/problems/LowestCommonAncestorBinaryTree.java)
 6. [Minimum Swaps To Make Sequences Increasing](src/main/java/problems/MinimumSwapsToMakeSequencesIncreasing.java)
 7. [Edit Distance](src/main/java/problems/EditDistance.java)
+8. [Parallel Courses](src/main/java/problems/ParallelCourses.java)
 
 ## Common Data Structures
 1. [Singly Linked List Node](src/main/java/problems/ListNode.java)
