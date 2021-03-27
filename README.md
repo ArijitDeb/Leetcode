@@ -13,6 +13,8 @@ This is a repository for [Leetcode](https://leetcode.com/) problem solutions.
 7. [Edit Distance](src/main/java/problems/EditDistance.java)
 8. [Parallel Courses](src/main/java/problems/ParallelCourses.java)
 9. [Largest Rectangle in Histogram](src/main/java/problems/LargestRectangleInHistogram.java)
+   ### Graphs ###
+10. [Network Delay Time](src/main/java/problems/NetworkDelayTime.java)
 
 ## Common Data Structures
 1. [Singly Linked List Node](src/main/java/problems/ListNode.java)
