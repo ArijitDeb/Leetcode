@@ -13,11 +13,14 @@ This is a repository for [Leetcode](https://leetcode.com/) problem solutions.
 * [Edit Distance](src/main/java/problems/EditDistance.java)
 * [Parallel Courses](src/main/java/problems/ParallelCourses.java)
 * [Largest Rectangle in Histogram](src/main/java/problems/LargestRectangleInHistogram.java)
+
    ### Graphs ###
 * [Network Delay Time](src/main/java/problems/NetworkDelayTime.java)
 
    ### Backtracking ###
 * [Subsets](src/main/java/problems/Subsets.java)
+* [Subsets With Duplicates](src/main/java/problems/SubsetsWithDuplicates.java)
+
 ## Common Data Structures
 * [Singly Linked List Node](src/main/java/problems/ListNode.java)
 * [Tree Node](src/main/java/problems/TreeNode.java)
