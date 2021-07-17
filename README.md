@@ -13,6 +13,7 @@ This is a repository for [Leetcode](https://leetcode.com/) problem solutions.
 * [Edit Distance](src/main/java/problems/EditDistance.java)
 * [Parallel Courses](src/main/java/problems/ParallelCourses.java)
 * [Largest Rectangle in Histogram](src/main/java/problems/LargestRectangleInHistogram.java)
+* [Shortest Path in a Grid with Obstacles Elimination](src/main/java/problems/ShortestPathGridWithObstaclesElimination.java)
 
    ### Graphs ###
 * [Network Delay Time](src/main/java/problems/NetworkDelayTime.java)
