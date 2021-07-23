@@ -14,6 +14,7 @@ This is a repository for [Leetcode](https://leetcode.com/) problem solutions.
 * [Parallel Courses](src/main/java/problems/ParallelCourses.java)
 * [Largest Rectangle in Histogram](src/main/java/problems/LargestRectangleInHistogram.java)
 * [Shortest Path in a Grid with Obstacles Elimination](src/main/java/problems/ShortestPathGridWithObstaclesElimination.java)
+* [Making A Large Island](src/main/java/problems/MakingLargeIsland.java)
 
    ### Graphs ###
 * [Network Delay Time](src/main/java/problems/NetworkDelayTime.java)
