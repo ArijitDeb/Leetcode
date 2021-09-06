@@ -4,6 +4,7 @@ Leetcode Problem Solutions
 This is a repository for [Leetcode](https://leetcode.com/) problem solutions.
 
 ## Problems
+
 * [Two Sum](src/main/java/problems/TwoSum.java)
 * [Add Two Numbers](src/main/java/problems/AddTwoNumbers.java)
 * [LRU Cache](src/main/java/problems/LRUCache.java)
@@ -15,11 +16,13 @@ This is a repository for [Leetcode](https://leetcode.com/) problem solutions.
 * [Largest Rectangle in Histogram](src/main/java/problems/LargestRectangleInHistogram.java)
 * [Shortest Path in a Grid with Obstacles Elimination](src/main/java/problems/ShortestPathGridWithObstaclesElimination.java)
 * [Making A Large Island](src/main/java/problems/MakingLargeIsland.java)
+* [Merge Intervals](src/main/java/problems/MergeIntervals.java)
+* [Subarray Sum Equals K](src/main/java/problems/SubarraySumEqualsK.java)
 
-   ### Graphs ###
+  ### Graphs ###
 * [Network Delay Time](src/main/java/problems/NetworkDelayTime.java)
 
-   ### Backtracking ###
+  ### Backtracking ###
 * [Subsets](src/main/java/problems/Subsets.java)
 * [Subsets With Duplicates](src/main/java/problems/SubsetsWithDuplicates.java)
 
@@ -27,5 +30,12 @@ This is a repository for [Leetcode](https://leetcode.com/) problem solutions.
 * [BoundedBlockingQueue](src/main/java/problems/BoundedBlockingQueue.java)
 
 ## Common Data Structures
+
 * [Singly Linked List Node](src/main/java/problems/ListNode.java)
 * [Tree Node](src/main/java/problems/TreeNode.java)
+
+## Facebook List ##
+
+* [Merge Intervals](src/main/java/problems/MergeIntervals.java)
+* [Subarray Sum Equals K](src/main/java/problems/SubarraySumEqualsK.java)
+* [Minimum Remove to Make Valid Parentheses](src/main/java/problems/MinimumRemoveToMakeValidParentheses.java)
